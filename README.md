@@ -62,8 +62,8 @@ We had to finish the design and combine both pieces to create the final thing.
 '''
 
 
-![Full 4.3CAD](https://user-images.githubusercontent.com/112961434/197540467-3c1878b4-9849-4862-b831-1a0909f108dc.png)
 
+![4.3 CAD Finished](https://user-images.githubusercontent.com/112961434/197542815-8b07c22c-059d-411d-a3b2-cdf4292e9489.png)
 
 
 
