@@ -7,7 +7,7 @@ This repository will actually serve as a aid to help you get started with your o
 * [4.3 CAD](#4.3_CAD)
 * [4.4/5 CAD](#4.4/5_CAD)
 * [Swing Arm](#Swing_Arm)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Multi-Part Studio](#Multi-Part Studio)
 ---
 
 ## 4.1_CAD
