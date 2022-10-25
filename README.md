@@ -97,7 +97,7 @@ I learned that branches can be helpful when making changes to parts
 We had to use a set of detailed drawings to create a sketch and a part
 
 
-```
+
 
 ### Evidence
 ![Swing arm sketchs](https://user-images.githubusercontent.com/112961434/197782209-d51db235-7908-49a5-8948-e0455d4b590b.png)
