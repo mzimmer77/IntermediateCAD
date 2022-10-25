@@ -16,7 +16,7 @@ This repository will actually serve as a aid to help you get started with your o
 the project is to work with our partner to create a ring and spinner. I was partner B so I made the spinner
 
 ### Evidence
-[Link to onshape]https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66
+[Link to onshape](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66)
 
 
 
@@ -44,7 +44,7 @@ This assignment I had to make the prop that fit on the spinner.
 
 
 ![Isometric view of the prop](https://user-images.githubusercontent.com/112961434/197538458-97d15b69-8bc9-4fe9-8cbf-ab83dda9c53d.png)
-[Link to onshape]https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66
+[Link to onshape](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66)
 
 
 
@@ -65,7 +65,7 @@ We had to finish the design and combine both pieces to create the final thing.
 
 
 ![4.3 CAD Finished](https://user-images.githubusercontent.com/112961434/197542815-8b07c22c-059d-411d-a3b2-cdf4292e9489.png)
-[Link to onshape]https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66
+[Link to onshape](https://cvilleschools.onshape.com/documents/599bcf8a3c0dbc000fd876a4/w/45d87e049849e30de3641a2b/e/e2136e1ecc451a3fe8ce5c66)
 
 
 
@@ -104,7 +104,7 @@ We had to use a set of detailed drawings to create a sketch and a part
 ### Evidence
 ![Swing arm sketchs](https://user-images.githubusercontent.com/112961434/197782209-d51db235-7908-49a5-8948-e0455d4b590b.png)
 ![Swing arm extruded](https://user-images.githubusercontent.com/112961434/197783122-5938a902-b8f3-4dd8-998c-7c6aa6040e6d.png)
-[Link to onshape]https://cvilleschools.onshape.com/documents/f9dcd376614204ad89a42091/w/82f2988d48d26885e56953d6/e/f912c0792c9de25a960383e7
+[Link to onshape](https://cvilleschools.onshape.com/documents/f9dcd376614204ad89a42091/w/82f2988d48d26885e56953d6/e/f912c0792c9de25a960383e7)
 
 ### Reflection
 I had trouble with this assignment because of the different angles and the many constrants tripped me up.
@@ -123,7 +123,7 @@ We had to use a set of detailed drawings to create multiple parts and add them a
 ### Evidence
 ![Multi-Part Studio](https://user-images.githubusercontent.com/112961434/197785138-5a5bacdb-9545-4b51-a057-3d0bcb0fd7db.png)
 ![Multi-Part Studio Section view of the cap](https://user-images.githubusercontent.com/112961434/197785538-2ade892b-7379-464e-8b14-49f468d8644c.png)
-[Link to onshape]https://cvilleschools.onshape.com/documents/647724b3ea079478046b9e61/w/4abda4e635e2cf6d2a677cc3/e/067f92114f8e9b6d269624e1
+[Link to onshape](https://cvilleschools.onshape.com/documents/647724b3ea079478046b9e61/w/4abda4e635e2cf6d2a677cc3/e/067f92114f8e9b6d269624e1)
 
 ### Reflection
 Using the revolve tool is helpful for making the top, do not fillet it because you need to do it on the inside.
