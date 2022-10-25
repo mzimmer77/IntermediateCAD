@@ -6,7 +6,7 @@ This repository will actually serve as a aid to help you get started with your o
 * [4.2 CAD](#4.2_CAD)
 * [4.3 CAD](#4.3_CAD)
 * [4.4/5 CAD](#4.4/5_CAD)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Swing Arm](#Swing_Arm)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
@@ -91,17 +91,37 @@ I learned that branches can be helpful when making changes to parts
 
 
 
-## NextAssignment
+## Swing_Arm
 
-### Description & Code
+### Description 
+We had to use a set of detailed drawings to create a sketch and a part
 
-```python
-Code goes here
 
 ```
 
 ### Evidence
+![Swing arm sketchs](https://user-images.githubusercontent.com/112961434/197782209-d51db235-7908-49a5-8948-e0455d4b590b.png)
+![Swing arm extruded](https://user-images.githubusercontent.com/112961434/197783122-5938a902-b8f3-4dd8-998c-7c6aa6040e6d.png)
 
-### Wiring
 
 ### Reflection
+I had trouble with this assignment because of the different angles and the many constrants tripped me up.
+
+
+
+
+## Swing_Arm
+
+### Description 
+We had to use a set of detailed drawings to create multiple parts and add them all together.
+
+
+```
+
+### Evidence
+![Multi-Part Studio](https://user-images.githubusercontent.com/112961434/197785138-5a5bacdb-9545-4b51-a057-3d0bcb0fd7db.png)
+![Multi-Part Studio Section view of the cap](https://user-images.githubusercontent.com/112961434/197785538-2ade892b-7379-464e-8b14-49f468d8644c.png)
+
+
+### Reflection
+Using the revolve tool is helpful for making the top, do not fillet it because you need to do it on the inside.
