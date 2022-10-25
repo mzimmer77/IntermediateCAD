@@ -110,13 +110,13 @@ I had trouble with this assignment because of the different angles and the many 
 
 
 
-## Swing_Arm
+## Multi-Part Studio
 
 ### Description 
 We had to use a set of detailed drawings to create multiple parts and add them all together.
 
 
-```
+
 
 ### Evidence
 ![Multi-Part Studio](https://user-images.githubusercontent.com/112961434/197785138-5a5bacdb-9545-4b51-a057-3d0bcb0fd7db.png)
