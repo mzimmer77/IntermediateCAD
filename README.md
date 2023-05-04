@@ -7,7 +7,8 @@ This repository will actually serve as a aid to help you get started with your o
 * [4.3 CAD](#4.3_CAD)
 * [4.4/5 CAD](#4.4/5_CAD)
 * [Swing Arm](#Swing_Arm)
-* [Multi-Part Studio](#Multi-Part Studio)
+* [Multi-Part Studio](#Multi-Part_Studio)
+* [Onshape Certification Reflection](#OnshapeCert)
 ---
 
 ## 4.1_CAD
@@ -127,3 +128,14 @@ We had to use a set of detailed drawings to create multiple parts and add them a
 
 ### Reflection
 Using the revolve tool is helpful for making the top, do not fillet it because you need to do it on the inside.
+
+## OnshapeCert
+
+### Evidence
+https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/b9f6a1e9-c863-4457-85f8-fe466c33c4aa-matthias-zimmerman-eb7bef75-cd6c-45b8-a960-2ad834ca60f9-certificate.pdf
+
+
+
+
+### Reflection
+The onshape certification test takes a LOT of time to prepare for. Making sure you do all of the practice assignments is key. Additonally knowing what you can and can't do on the test helps. for the multiple choice section of the test you should remember that it is open internet so you can use other reasources such as google or the onshape website. For me, I did prepare for the test with the practice assignments but I didn't take them that seriously and so I didn't pass my first time. One of the reasons for why that happened was due to my answers snowballing. for example, if I got the first answer wrong on the swing arm all of the next aanswers would either be a little off or completely wrong which seriously messes you up. If you do fail the first time remember that the second time you take it (it is worth it) the questions are exactly the same as the first time and yu will be a lotmore ready the second time.
